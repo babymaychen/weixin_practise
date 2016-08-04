@@ -3,13 +3,13 @@
   "message": "获取成功",
   "data": [
     {
-      "content": "/static/img/1.jpg"
+      "content": "/static/img/banner1.png"
     },
     {
-      "content": "/static/img/1.jpg"
+      "content": "/static/img/banner2.png"
     },
     {
-      "content": "/static/img/1.jpg"
+      "content": "/static/img/banner3.png"
     }
   ]
 }
